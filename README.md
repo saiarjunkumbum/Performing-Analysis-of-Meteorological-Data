@@ -3,8 +3,8 @@ Using Scikit-Learn
 
 One type of data that’s easier to find on the net is Weather data. Many sites provide historical
 data on many meteorological parameters such as pressure, temperature, humidity,
-wind_speed, visibility, etc. Our SuvenML team has downloaded one such weather dataset from
-kaggle. (Source URL: https://www.kaggle.com/muthuj7/weather-dataset) 
+wind_speed, visibility, etc. 
+(Source URL: https://www.kaggle.com/muthuj7/weather-dataset) 
 
 The dataset has hourly temperature recorded for last 10 years starting from 2006-04-01
 00:00:00.000 +0200 to 2016-09-09 23:00:00.000 +0200. It corresponds to Finland, a country in
