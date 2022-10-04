@@ -30,3 +30,5 @@ analysis by appropriate visualizations using matplotlib and / or seaborn library
 Blog Article for Performing-Analysis-of-Meteorological-Data 
   
   https://medium.com/@patilabhijeetges89/performing-analysis-of-meteorological-data-9cf9ebc8182
+  
+  Global warming is no doubt deteriorating the climate and is affecting various parameters of the environment.Hence from this analysis we infer that there are either sharp rise in temperatures or sharp falls over the 10 yrs. Hence we can conclude that Global Warming has caused a major difference and unreliability in temperature predictability also taking humidity into consideration we can say that it has almost remained same throughout the past years.
