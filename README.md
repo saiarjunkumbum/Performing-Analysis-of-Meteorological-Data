@@ -11,12 +11,11 @@ The dataset has hourly temperature recorded for last 10 years starting from 2006
 the Northern Europe. You can download the dataset from this Google drive link:
 https://drive.google.com/open?id=1ScF_1a-bkHi1qe8Rn78uxK6_5QwUD9Bu
 
-Your goal in this Internship (of data analysis) is to transform the raw data into information and
+My goal in this Internship (of data analysis) was to transform the raw data into information and
 then convert it into knowledge.
-In this Internship assignment, you would be responsible for perform data cleaning, perform
+In this Internship assignment, I was responsible for performing data cleaning, performing
 analysis for testing the (given) Hypothesis and finally put-forth your conclusion by writing a
-blog article. Your blog should be as descriptive as possible with relevant visualizations to prove
-your point.
+blog article.
 
     The Null Hypothesis H0 is "Has the Apparent temperature and humidity compared monthly
 across 10 years of the data indicate an increase due to Global warming"
