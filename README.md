@@ -14,7 +14,7 @@ https://drive.google.com/open?id=1ScF_1a-bkHi1qe8Rn78uxK6_5QwUD9Bu
 My goal in this Internship (of data analysis) was to transform the raw data into information and
 then convert it into knowledge.
 In this Internship assignment, I was responsible for performing data cleaning, performing
-analysis for testing the (given) Hypothesis and finally concluding this by writing a blog article.
+analysis for testing the (given) Hypothesis.
 
     The Null Hypothesis H0 is "Has the Apparent temperature and humidity compared monthly
 across 10 years of the data indicate an increase due to Global warming"
